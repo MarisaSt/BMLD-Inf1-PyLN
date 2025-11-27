@@ -1,4 +1,4 @@
-**Geburtenrate**
+# **Geburtenrate**
 
 Gruppe: Chiara Muff, Medea Hutter, Marisa Stöckli
 
@@ -12,7 +12,7 @@ Quellen:
 https://ourworldindata.org/grapher/children-per-woman-un?tab=line&time=earliest..2023
 
 
-*** 1. Daten beschaffen und laden***
+## **1. Daten beschaffen und laden**
 
 import pandas as pd
 from matplotlib import pyplot as plt

@@ -9,3 +9,5 @@ Am Leistungsnachweis arbeiten
 - Marisa Stöckli (Stoecma5@students.zhaw.ch)
 
 **Projektidee**
+
+Wir untersuchen, in welchen Ländern die Geburtenrate in den letzten 10 Jahren am stärksten gesunken ist und ob es Regionen gibt, in denen sie gestiegen ist. Und recherchieren mögliche sozioökonomische Gründe dafür.

@@ -1,0 +1,22 @@
+**Geburtenrate**
+
+Gruppe: Chiara Muff, Medea Hutter, Marisa Stöckli
+
+Fragen:
+1. 
+2.
+3.
+
+
+Quellen:
+https://ourworldindata.org/grapher/children-per-woman-un?tab=line&time=earliest..2023
+
+
+*** 1. Daten beschaffen und laden***
+
+import pandas as pd
+from matplotlib import pyplot as plt
+
+df = pd.read_csv((children-per-woman-un.csv)', skiprows=1,
+                 names=['Entity','Code','Year','fertility rate']) 
+df.head()  
